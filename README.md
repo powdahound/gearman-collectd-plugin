@@ -7,7 +7,7 @@ Data captured includes:
 
  * Pending jobs in each queue
  * Running jobs in each queue
- * Available workers for each queu
+ * Available workers for each queue
 
 Install
 -------
